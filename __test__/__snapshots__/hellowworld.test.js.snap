@@ -1,0 +1,3 @@
+// Vitest Snapshot v1
+
+exports[`测试示例 > hellow world 1`] = `"<h1 class=\\"name\\">hello world!</h1>"`;

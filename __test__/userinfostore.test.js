@@ -8,7 +8,7 @@ import useUserInfo from '@/store/userinfo';
 describe('pinia测试示例', () => {
   let store = null;
   beforeAll(() => {
-    setActivePinia(createPinia());
+    setActivePinia(createPinia()); // 激活pinia
     store = useUserInfo()
   })
 

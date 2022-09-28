@@ -4,7 +4,8 @@
 // import Count from './components/Count.vue'
 // import Request from './components/Request.vue'
 // import CountDown from './components/CountDown.vue'
-import UserInfo from './components/UserInfo.vue'
+// import UserInfo from './components/UserInfo.vue'
+import Login from './components/Login.vue'
 </script>
 
 <template>
@@ -13,7 +14,8 @@ import UserInfo from './components/UserInfo.vue'
   <Count /> -->
   <!-- <Request /> -->
   <!-- <CountDown /> -->
-  <UserInfo />
+  <!-- <UserInfo /> -->
+  <Login />
 </template>
 
 <style scoped>
