@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "test": "vitest",
     "testui": "vitest --ui",
-    "test:single": "vitest __test__/nameslot.test.js"
+    "test:single": "vitest __test__/userinfostore.test.js"
   },
   "dependencies": {
     "axios": "^0.27.2",

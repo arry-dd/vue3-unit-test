@@ -3,7 +3,7 @@ import {
 } from 'vitest';
 
 import { setActivePinia, createPinia } from 'pinia'
-import useUserInfo from '@/store/userinfo';
+import { useUserInfo } from '@/store/userinfo';
 
 describe('pinia测试示例', () => {
   let store = null;
